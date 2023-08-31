@@ -1,5 +1,4 @@
-https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/263749502_2485422711592954_915710535729276653_n.png?_nc_cat=108&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeG09qSyZLuj3zQD_1A26QPlrXy6nPZKfFatfLqc9kp8VkkkCzbitldBhEdZBK3UZdXwbWQra23oXd2rauVcMCwm&_nc_ohc=KZzWrsbiNlsAX90IdEB&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDkRMpFE9c0yX0Uu8mi2MVlNYc8b10ziSDz0JbAxaa2bg&oe=64F46B40
-
+<img src="https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/263749502_2485422711592954_915710535729276653_n.png?_nc_cat=108&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeG09qSyZLuj3zQD_1A26QPlrXy6nPZKfFatfLqc9kp8VkkkCzbitldBhEdZBK3UZdXwbWQra23oXd2rauVcMCwm&_nc_ohc=KZzWrsbiNlsAX90IdEB&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDkRMpFE9c0yX0Uu8mi2MVlNYc8b10ziSDz0JbAxaa2bg&oe=64F46B40" alt="Cover image">
 
 ### Hi there 👋, I'm Ariful.
 #### Web Developer
